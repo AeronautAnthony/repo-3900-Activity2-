@@ -1,0 +1,42 @@
+/*
+main section
+*/
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+/*
+Cards
+*/
+.card{
+    background-color: #36454F;
+    width: 275px;
+    height: 400px;
+    margin: 40px;
+    
+}
+
+/*
+card image
+*/
+.img{
+    height: 175px;
+    width: 275px;
+   background-color: black;
+   margin-bottom: 20px;
+}
+
+ /*
+text
+*/
+.title{
+color: white;
+}
+/*
+card image
+*/
+
+/*
+card image
+*/

@@ -37,7 +37,7 @@ card image
   border-radius: 25px 25px 0 0;
 }
 .Azure{
-    background-image: url('./img/Azure.png');
+    background-image: url('../img/Azure.png');
     background-position: center;
 }
 .VsTotal{
@@ -45,7 +45,7 @@ card image
     background-position: center;
 }
 .IPQS{
-    background-image: url('img/IPQS.png');
+    background-image: url('../img/IPQS.png');
     background-position: center;
 }
  /*

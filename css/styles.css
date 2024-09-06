@@ -37,11 +37,11 @@ card image
   border-radius: 25px 25px 0 0;
 }
 .Azure{
-    background-image: url('img/Azure.png');
+    background-image: url('./img/Azure.png');
     background-position: center;
 }
 .VsTotal{
-    background-image: url('img/VsTotal.png');
+    background-image: url('../img/VsTotal.png');
     background-position: center;
 }
 .IPQS{
